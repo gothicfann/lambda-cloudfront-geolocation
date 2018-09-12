@@ -1,0 +1,17 @@
+{
+  "name": "serverless-geolocation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "mmdb-reader": "^1.2.0",
+    "util": "^0.11.0"
+  }
+}
